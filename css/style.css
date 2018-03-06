@@ -45,3 +45,6 @@ h1 {
 div {
   float: left;
 }
+.location:hover {
+  background-color: grey;
+}
